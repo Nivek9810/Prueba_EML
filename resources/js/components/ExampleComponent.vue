@@ -15,7 +15,7 @@
           <br />
           <br />
           <strong>Kevin Guacaneme López - Universidad Distrital Francisco José de Caldas</strong>
-          <br />kguacamenel@corre.udistrital.edu.co
+          <br />kguacamenel@correo.udistrital.edu.co
         </p>
         <a href="/clients" class="btn btn-primary">Ir al modulo principal</a>
       </div>
